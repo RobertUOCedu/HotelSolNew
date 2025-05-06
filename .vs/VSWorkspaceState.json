@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HotelSOL",
+    "\\HotelSOL.Client",
+    "\\HotelSOL\\ConexionOdoo",
+    "\\HotelSOL\\ConexionOdoo\\Clientes",
+    "\\HotelSOL\\Migrations",
+    "\\odoo_sync"
+  ],
+  "SelectedNode": "\\HotelSOL.sln",
+  "PreviewInSolutionExplorer": false
+}
